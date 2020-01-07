@@ -64,10 +64,10 @@ Please read [CONTRIBUTING](CONTRIBUTING.md) for details on our code of conduct, 
 
 ## Wiki
 
-Please read [Wiki](https://github.com/EydeeChan/School-Management-System/wiki) for more details about my project and futher documentation.
+Please read [Wiki](https://github.com/EydeeChan/Voting-Management-System/wiki) for more details about my project and futher documentation.
 
 ## End-User License Agreement (EULA)
-Please also read our [EULA](https://github.com/EydeeChan/School-Management-System/wiki/End-User-License-Agreement-(EULA)).
+Please also read our [EULA](https://github.com/EydeeChan/Voting-Management-System/wiki/End-User-License-Agreement-(EULA)).
 
 ## Versioning
 
