@@ -1,37 +1,85 @@
-## Welcome to GitHub Pages
+# Voting Management System
+[![Developer](https://img.shields.io/badge/Developed%20by%3A-Kenneth%20Glenn%20Somera%20Bamba-brightgreen.svg)](https://github.com/EydeeChan/)
+[![OS](https://img.shields.io/badge/OS%3A-Windows%207%20and%20up-blue.svg)](https://github.com/EydeeChan/Voting-Management-System)
+[![GitHub star](https://img.shields.io/github/stars/EydeeChan/Voting-Management-System.svg)](https://github.com/EydeeChan/Voting-Management-System)
+[![GitHub release](https://img.shields.io/github/release/EydeeChan/Voting-Management-System.svg)](https://github.com/EydeeChan/Voting-Management-System)
 
-You can use the [editor on GitHub](https://github.com/EydeeChan/Voting-Management-System/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Screenshot
 
-### Markdown
+[![INSERT YOUR GRAPHIC HERE](https://i.imgur.com/Wx3M2C1.png)]()
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Login Form
 
-```markdown
-Syntax highlighted code block
+[![INSERT YOUR GRAPHIC HERE](https://i.imgur.com/oDRHfKE.png)]()
 
-# Header 1
-## Header 2
-### Header 3
+- Admin Form 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+### Prerequisites
+```
+1. .NET Framework 4.5.2
+```
+```
+2. MySQL Server
+```
+```
+3. SAP Report Tool
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Installation
 
-### Jekyll Themes
+### For Taytay Senior High School Teacher
+1. Download the latest version **[here](https://github.com/EydeeChan/Voting-Management-System/releases)**.
+2. Extract the zip package and look for **"Setup.exe"** file, it should be in root directory.
+3. Open the program then go to database setting.
+4. Set the following database setting given by the administrator.
+5. Enter your credentials.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EydeeChan/Voting-Management-System/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Demo
+1. Download the latest version **[here](https://github.com/EydeeChan/Voting-Management-System/releases)**.
+2. Extract the zip package and look for **"Setup.exe"** file, it should be in root directory.
+3. Run your MySQL Server then import tshs_sms.sql and execute it.
+4. Enter the following Credentials.
 
-### Support or Contact
+* Username: EydeeChan
+* Password: EydeeChan
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+## Built With
+
+* [CSharp](https://docs.microsoft.com/en-us/dotnet/csharp/) - Programing language
+* [VisualStudio](https://visualstudio.microsoft.com/) - an integrated development environment (IDE) from Microsoft.
+* [Bunifu](https://bunifuframework.com/docs/) - UI Controls for C# & VB.NET Developers
+* [MySQL](https://github.com/mysql) - Connection Library
+* [XAMPP](https://www.apachefriends.org/index.html) - Database
+* [MaterialSkin](https://github.com/IgnaceMaes/WinForms-MaterialSkin) - Theming WinForms (C# or VB.Net) to Google's Material Design Principles.
+* [MetroModernUI](http://denricdenise.info/) - Metro Modern UI or MetroFramework brings Windows 8 UI to .NET Windows Forms applications.
+* [BouncyCastle](http://www.bouncycastle.org/csharp/) - C# runtime library for Protocol Buffers - Google's data interchange format.
+* [Google.Protobuf](https://github.com/protocolbuffers/protobuf) - C# runtime library for Protocol Buffers - Google's data interchange format.
+* [SAP Crystal Report](https://www.sap.com/sea/products/crystal-reports.html) - SAP Crystal Reports is a Business Intelligence tool which is used to generate reports from both SAP and non-SAP data sources. It enables end users to generate reports that includes exceptional visualizations and implement new business requirements into reports to reduce dependency on IT and Report developers.
+
+## Contributing
+
+Please read [CONTRIBUTING](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+
+## Wiki
+
+Please read [Wiki](https://github.com/EydeeChan/School-Management-System/wiki) for more details about my project and futher documentation.
+
+## End-User License Agreement (EULA)
+Please also read our [EULA](https://github.com/EydeeChan/School-Management-System/wiki/End-User-License-Agreement-(EULA)).
+
+## Versioning
+
+I use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/EydeeChan/School-Management-System/tags).
+
+## Author and Developer
+
+* **Kenneth Glenn Somera Bamba** - *Initial work* - [EydeeChan](https://github.com/EydeeChan)
+
+## Co-Authors
+
+* **Marisa Peñaranda Agdong** - *Documentation*
+* **Aldrin Romeroso Victor** - *Documentation*
+
+## Update Notes
